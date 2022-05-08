@@ -38,5 +38,5 @@ namespace ComplexNumber
 }
 
 
-// operator overloading (stream insertion operator)
+// operator overloading (stream insertion operator ' << ')
 std::ostream& operator<<(std::ostream& out, const ComplexNumber::Complex& c);
