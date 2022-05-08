@@ -2,7 +2,7 @@
 #include <cmath>
 #include "complex.h"
 
-#define DEBUG 1
+#define DEBUG 0
 
 #if DEBUG
 #define SHOW(x) std::cout<<x<<std::endl
